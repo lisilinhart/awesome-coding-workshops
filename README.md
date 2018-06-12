@@ -4,7 +4,7 @@ Non-profit workshops aiming to increase diversity in tech and lower the barrier 
 
 ## Contents
 
-- [Cross Contintent](#cross-contintent)
+- [Cross Continent](#cross-continent)
 - [Africa](#africa)
 - [Asia](#asia)
 - [Australia](#australia)
@@ -12,7 +12,7 @@ Non-profit workshops aiming to increase diversity in tech and lower the barrier 
 - [North America](#north-america)
 - [South America](#south-america)
 
-# Cross Contintent
+# Cross Continent
 ## Codebar
 Topics: CSS, HTML, JS
 
