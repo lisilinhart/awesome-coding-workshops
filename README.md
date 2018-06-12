@@ -30,15 +30,15 @@ http://railsgirls.com/
 # Australia
 
 # Europe
+
 ## Germany
-
 ### Berlin
-
 #### CSS Classes
 Topics: CSS, HTML
 
 https://cssclass.es/
 
+## Poland
 ### Krakow
 
 #### Webmuses
@@ -46,19 +46,19 @@ Topics: CSS, HTML
 
 http://www.webmus.es/
 
-### London
-
-#### Codebar
-Topics: CSS, HTML, JS
-
-https://codebar.io/
-
 ### Warsaw
 
 #### The AWWWSOMES
 Topics: CSS, HTML, UX
 
 https://theawwwesomes.org/
+
+## United Kingdom
+### London
+#### Codebar
+Topics: CSS, HTML, JS
+
+https://codebar.io/
 
 # North America
 
